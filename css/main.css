@@ -1,0 +1,59 @@
+#wrap {
+	width: 766px;
+	margin: 0 auto;
+}
+
+@font-face {
+	font-family: 'Versa'
+	src: url('Versa-Versa.woff2') format('woff2'),
+			 url('Versa-Versa.woff') format('woff');
+
+	}
+
+.text-graphic{
+font-size: 2.5rem;
+font-family: 'Versa', sans-serif;
+
+
+background: linear-gradient(to bottom, #3091ff 30%, #02bc02 70%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+
+position: relative;
+left: 25px;
+top: 15px;
+margin-top: -70px;
+}
+
+
+.header_image {
+}
+
+.paragraph{
+	font-size: 18px;
+	font-family: 'Teko','Archivo Narrow', sans-serif;
+}
+
+.rainbow_Trout_Text{
+	font-size: 25px;
+	font-family: 'Teko','Archivo Narrow', sans-serif;
+}
+
+.drop-cap {
+  font-size: 60px;
+  font-weight: 10px;
+  line-height: 10px;
+  float: left;
+  margin: 5px 10px 0 0;
+}
+
+.california_Tray_System{
+float: right;
+padding: 4px;
+}
+
+.fish_Vertical{
+float: left;
+padding: 4px;
+}
