@@ -1,1 +1,1 @@
-# Ghalehpardaz_G_TypographyHW
+Added all files and is ready to be submitted.
